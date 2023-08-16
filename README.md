@@ -1,6 +1,10 @@
 # STM32 Robot Arm Project
 ## Description
 This is a codebase for using servo robot arm with stm32.
+## Tutorial
+1. Download and unpack files
+2. Open project in STM32CubeIDE
+3. Adjust robot_arm.h values to match real world project
 ## Hardware Info
 - Board: STM32F411E-DISCO
 - PWM controller: PCA9865
@@ -12,3 +16,5 @@ This is a codebase for using servo robot arm with stm32.
 ## External libraries used
 pca9685.h and pca9685.c by [lamik](https://github.com/lamik).\
 Project github: https://github.com/lamik/PCA9685_Servo_STM32_HAL
+## Disclaimer
+It may not work, use at your own risk
