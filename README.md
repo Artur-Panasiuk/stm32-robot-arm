@@ -10,5 +10,5 @@ This is a codebase for using servo robot arm with stm32.
 - [PCA9865](https://cdn-shop.adafruit.com/datasheets/PCA9685.pdf)
 - [MG995](https://datasheetspdf.com/pdf-file/839879/ETC/MG995/1)
 ## EXTERAL LIBRARIES USED:
-pca9685.h and pca9685.c by [lamik](https://github.com/lamik).
+pca9685.h and pca9685.c by [lamik](https://github.com/lamik).\
 Project github: https://github.com/lamik/PCA9685_Servo_STM32_HAL
